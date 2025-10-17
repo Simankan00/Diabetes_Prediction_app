@@ -6,7 +6,7 @@ A simple Machine Learning web app built with **Streamlit** that predicts whether
 
 ## 🚀 Demo
 
-Try it live: https://diabetespredictionapp-qjybgkwkuxpfvmf8bmgrjd.streamlit.app/
+Try it live: https://diabetespredictionapp-ndffzohtfebzv4yinwewwb.streamlit.app/
 
 ## 📊 Features
 
@@ -41,5 +41,6 @@ diabetes-prediction-app/
 - Streamlit (for frontend/UI)
 
 ---
+
 
 
